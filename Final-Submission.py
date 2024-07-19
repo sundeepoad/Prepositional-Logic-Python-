@@ -1,5 +1,6 @@
 from tkinter import *
 
+
 def Try():  ##Function for Truth Table 
     master.destroy()   ##Destroys master window after try function has been called
     global root,exp1, entry1     
@@ -632,3 +633,6 @@ def main():
     master.mainloop()
 
 main()
+
+
+## main
